@@ -1,6 +1,6 @@
 # DataScience_Python_-_Data_ICMC
 
-Esse repositório tem como objetivo acompanha os exercícios referente ao curso "Introdução à Data Science com Python" do canal de Youtube <a href="https://www.youtube.com/channel/UC_pily9Uu-j3BgAzjeEc60A">Data ICMC</a>.
+Esse repositório tem como objetivo acompanha os exercícios referente ao curso "**Introdução à Data Science com Python**" do canal de Youtube <a href="https://www.youtube.com/channel/UC_pily9Uu-j3BgAzjeEc60A">Data ICMC</a>.
 
 A agenda do curso:
 
