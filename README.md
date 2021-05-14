@@ -13,7 +13,8 @@ O repositório obedece a seguinte estrutura de diretório:
 
 ## Agenda do curso
 
-* <a href="https://github.com/cotozelo/DataScience_Python_-_Data_ICMC/blob/main/Notebooks/Introdu%C3%A7%C3%A3o_Pandas.ipynb">Pandas</a>
+* Introdução ao <a href="https://github.com/cotozelo/DataScience_Python_-_Data_ICMC/blob/main/Notebooks/Introdu%C3%A7%C3%A3o_Pandas.ipynb">Pandas</a>
+* Exemplos básico de gráfico com <a href='https://github.com/cotozelo/DataScience_Python_-_Data_ICMC/blob/main/Notebooks/Matplotlib.ipynb'>Matplotlib</a>
 
 
 
