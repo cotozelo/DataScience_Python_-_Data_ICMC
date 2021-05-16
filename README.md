@@ -45,3 +45,13 @@ ___
 * Regressão
   * Target é um valor real ou numérico (ex. o preço de uma casa)
 
+___
+
+### <a href="https://github.com/cotozelo/DataScience_Python_-_Data_ICMC/blob/main/Notebooks/knn.ipynb">KNN</a> - *k-Nearest Neighbors* (ou k-Vizinhos mais próximos)
+* Chamado de kNN.
+* Supervisionado.
+* Classificação ou Regressão (com algumas adptações).
+* Features sempre númericas.
+* Pressuposto que cada registros de mesma classe estão localizados próximos no espaço.
+  * A localização no espaço é dado pelo dimensionalidade do registro, ou seja, se um registro tem 2 features o espaço é bi-dimensional ou 2D. Logo se o registro tem 10 features o espaço é 10D.
+  * Para saber se os registros estão próximo é calculado a distância entre eles, as formulações de distâncias mais comuns são **Distância Euclidiana** e **Distância Manhattan**.
